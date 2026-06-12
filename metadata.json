@@ -1,0 +1,6 @@
+{
+  "name": "LaTeX Document Converter",
+  "description": "Convert raw text, .txt files, or .docx documents into high-quality, fully formatted, compile-ready LaTeX code with AI-assisted or rules-based translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
